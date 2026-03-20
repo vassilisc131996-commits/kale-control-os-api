@@ -14,4 +14,4 @@ npm start
 - Build command: `npm install`  
 - Start command: `node server.js`
 - Environment: Add all keys from `.env.example`
-- Environment Variables → add ANTHROPIC_API_KEY (and optionally RESEND_API_KEY, ALERT_EMAIL)
+- Environment Variables → add 'ANTHROPIC_API_KEY' → your key
